@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ayoubakermi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 📍 Based in Tunisia
+- ✉️ You can contact me at Akermiayoub20@gmail.com 
+- 🧠 I'm always learning new technologies
 - 💞️ I’m looking to collaborating on web and android apps
-- 📫 How to reach me ...
 
 <!---
 ayoubakermi/ayoubakermi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
