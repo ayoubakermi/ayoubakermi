@@ -7,9 +7,7 @@ Web Developer
 - 🧠 I'm always learning new technologies
 - 🤝 I’m looking to collaborating on web and android apps
 
-
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Skills
 
 
