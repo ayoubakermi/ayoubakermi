@@ -186,23 +186,6 @@
       height="32"
   /></a>
 </p>
-<h2> Badges</h2>
-<br>
-<b>My GitHub Stats</b>
-<br>
-<br>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <a href="https://github.com/ayoubakermi"
-  ><img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=melekhomrani&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a
->
-<br>
-<br>
-<a href="https://github.com/ayoubakermi" align="left"
-  ><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubakermi&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-
-
 
     <h2> Badges</h2>
 <br>
