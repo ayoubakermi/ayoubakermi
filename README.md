@@ -186,7 +186,6 @@
       height="32"
   /></a>
 </p>
-<br>
 <h2> Badges</h2>
 <br>
 <b>My GitHub Stats</b>
@@ -197,5 +196,6 @@
     <img 
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubakermi&show_icons=true&locale=en&layout=compact&title_color=ef4444&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true" alt="ayoubakermi" />
+
 
 
