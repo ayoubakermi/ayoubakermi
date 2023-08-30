@@ -197,6 +197,7 @@
     <img 
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=melekhomrani&show_icons=true&locale=en&layout=compact&title_color=ef4444&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true" alt="ayoubakermi" />
+<br>
 <h2> Badges</h2>
 <br>
 <b>My GitHub Stats</b>
