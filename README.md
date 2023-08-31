@@ -197,13 +197,7 @@
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=melekhomrani&show_icons=true&locale=en&layout=compact&title_color=ef4444&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true" alt="ayoubakermi" />
 
-<img align="left"
-src="https://github-readme-streak-stats.herokuapp.com/?user=melekhomrani&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> 
-<img 
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=melekhomrani&show_icons=true&locale=en&layout=compact&title_color=ef4444&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true" alt="ayoubakermi" />
- 
-            
+
 
             
                     
